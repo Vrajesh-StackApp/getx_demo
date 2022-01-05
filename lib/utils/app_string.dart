@@ -7,6 +7,7 @@ class AppString {
   static String secondPage = '/second';
 
   //AppBar
-  static String homeAppBar = 'Getx';
-  static String secondAppBar = 'Second';
+  static String homeAppBar = 'getX';
+  static String secondAppBar = 'second';
+  static String btnSecondPage = 'second_page';
 }
